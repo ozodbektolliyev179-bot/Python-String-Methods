@@ -1,6 +1,6 @@
 text = input('text: ')
 
-text = text.title(),text.strip()
+text = text.strip().capitalize()
 
 
 print(text)

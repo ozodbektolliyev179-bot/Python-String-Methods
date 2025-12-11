@@ -1,2 +1,3 @@
-text =  input('text: '  )
-print(text.upper())
+word = input('matn kiriting: ')
+result = word[0:].isupper()
+print(result)

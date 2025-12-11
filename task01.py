@@ -1,5 +1,5 @@
 text = input('text: ')
 
-text = text.isalpha()
+print(text.isalpha())
 
-print(text)
+
